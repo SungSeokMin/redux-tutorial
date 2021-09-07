@@ -1,8 +1,6 @@
-## Redux 기초
+## Redux
 
-## Redux Thunk
-
-## [Blog](https://sungseokmin.github.io/)
+### [Blog](https://sungseokmin.github.io/frontend/redux/Redux/)
 
 #### 참고
 
